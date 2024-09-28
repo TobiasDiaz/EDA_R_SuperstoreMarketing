@@ -13,7 +13,7 @@ library(ggplot2)
 library(plyr)
 
 #---Leer el Dataset---
-df <- read.csv("C:/Users/alex_/kodigo/Proyecto de R/datasets/superstore_data.csv")
+df <- read.csv("C:/Users/alex_/kodigo/Proyecto de R/EDA_R_SuperstoreMarketing/datasets/superstore_data.csv")
 
 #---Analisis de datos---
 # Estructura de los datos
